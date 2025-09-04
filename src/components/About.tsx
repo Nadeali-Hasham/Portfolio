@@ -133,7 +133,7 @@ const About = () => {
               <div>
                 <h3 className="font-semibold">Email</h3>
                 <p className="text-muted-foreground">
-                  syednadealihashamshah@gmail.com
+                  contact@nadealihasham.com
                 </p>
               </div>
               <div>
